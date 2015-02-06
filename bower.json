@@ -6,10 +6,7 @@
     "Mika Tuupola <tuupola@appelsiini.net>"
   ],
   "description": "jQuery plugin for lazy loading images",
-  "main": [
-    "jquery.lazyload.js",
-    "jquery.scrollstop.js"
-  ],
+  "main": "jquery.lazyload.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
